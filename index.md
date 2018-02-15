@@ -1,5 +1,3 @@
-## mgr inż. Maciej Małecki
-
 ### Konsultacje
 Wtorek, 16:00-17:00, D-2, 302a
 
