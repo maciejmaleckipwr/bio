@@ -3,6 +3,9 @@
 ### Konsultacje
 Wtorek, 16:00-17:00, D-2, 302a
 
+### Kontakt
+Proszę o kontakt za pośrednictwem [E-Mail](mailto:maciej.malecki@pwr.edu.pl) lub systemu JSOS.
+
 ### Zajęcia w semestrze letnim 2017/2018
 
 #### Projektowanie i implementacja systemów webowych
