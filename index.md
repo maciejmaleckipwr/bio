@@ -1,7 +1,7 @@
 ## mgr inż. Maciej Małecki
 
 ### Konsultacje
-Wtorek, 16:00-17:00, D-2, s302a
+Wtorek, 16:00-17:00, D-2, s.302a
 
 ### Kontakt
 Proszę o kontakt za pośrednictwem [E-Mail](mailto:maciej.malecki@pwr.edu.pl) lub systemu JSOS.
