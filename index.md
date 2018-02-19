@@ -9,8 +9,8 @@ Proszę o kontakt za pośrednictwem [E-Mail](mailto:maciej.malecki@pwr.edu.pl) l
 ### Zajęcia w semestrze letnim 2017/2018
 
 #### Projektowanie i implementacja systemów webowych
-Wykład: Środa/TP, 13:13, D-1, s.29
+Wykład: Środa/TP, 13:13, D-1, s.29.
 
-Laboratorium: Wtorek, 17:05, D-2, s.107b
+Laboratorium: Wtorek, 17:05, D-2, s.107b; [listy zadań](https://pwr-piisw.github.io/materialy/).
 
-Wszelkie materiały dostępne są na [github.com](https://github.com/pwr-piisw)
+Wszelkie materiały dostępne są na [github.com](https://github.com/pwr-piisw).
